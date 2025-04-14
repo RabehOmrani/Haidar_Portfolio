@@ -1,0 +1,54 @@
+{
+  "name": "Haidar Skaif",
+  "title": "Marketing and Customer Relations Specialist",
+  "contact": {
+    "email": "haidarskeif615@gmail.com",
+    "phone": "+964 775 930 254",
+    "location": "Baghdad, Iraq",
+    "linkedin": "https://linkedin.com/in/haidarskaif"
+  },
+  "experience": [
+    {
+      "title": "Assistant Warehouse Manager / Data Entry / Auditor",
+      "company": "Morooj Alsultan Company",
+      "date": "Jun 2024 – Present",
+      "location": "Baghdad, Iraq",
+      "details": [
+        "Conducted inventory audits and ensured data accuracy.",
+        "Streamlined stock management systems and supported logistics operations.",
+        "Entered and verified data, contributing to warehouse efficiency."
+      ]
+    },
+    {
+      "title": "Customer Service Supervisor & Kitchen Graphic Designer",
+      "company": "Dahab Kitchens and Decorations",
+      "date": "Mar 2024 – May 2024",
+      "location": "Baghdad, Iraq",
+      "details": [
+        "Supervised customer support staff and improved client satisfaction.",
+        "Designed marketing visuals and kitchen layouts using Home Styler.",
+        "Delivered customized customer solutions in a retail environment."
+      ]
+    }
+  ],
+  "skills": [
+    "Marketing & Promotions",
+    "Customer Relationship Management",
+    "Graphic Design (Home Styler)",
+    "Sales Strategy",
+    "Data Entry & Inventory",
+    "Microsoft Office Suite"
+  ],
+  "languages": {
+    "Arabic": 5,
+    "English": 4
+  },
+  "education": [
+    {
+      "degree": "B.A. in English Literature",
+      "institution": "Tishreen University",
+      "location": "Latakia, Syria"
+    }
+  ],
+  "philosophy": "Creativity solves problems. Communication builds brands."
+}
