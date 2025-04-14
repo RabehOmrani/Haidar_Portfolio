@@ -57,12 +57,12 @@ def render_languages(lang_dict):
     for lang, lvl in lang_dict.items():
         st.progress(lvl / 5, text=lang)
 
-def render_slider(title, data,arg_use_column_width='auto'):
+def render_slider(title, data,arg_use_container_width='auto'):
     st.markdown(f"## {title}")
     cols = st.columns(len(data))
     for i, item in enumerate(data):
         with cols[i]:
-            st.image(item['image'], use_column_width=arg_use_column_width)
+            st.image(item['image'], use_container_width=arg_use_container_width)
             st.markdown(f"**{item['title']}**")
             st.markdown(item.get('issuer') or f"*{item.get('company', '')} - {item.get('year', '')}*")
             for desc in item.get('description', []):
